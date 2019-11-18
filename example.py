@@ -1,2 +1,2 @@
+print('first line')
 print('new line')
-print('next line')

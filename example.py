@@ -1,2 +1,0 @@
-
-print("Second line")
